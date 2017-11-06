@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{ECD9BE2B-09E4-48BC-9C8D-323E2BE2CE51}</ProjectGuid>
-    <RootNamespace>Artemis</RootNamespace>
+    <RootNamespace>GameOfLife</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
